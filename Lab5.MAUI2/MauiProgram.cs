@@ -3,6 +3,7 @@ using Lab5.MAUI2;
 using Microsoft.Extensions.Logging;
 using Lab5.MAUIData.Interfaces;
 using Lab5.MAUIData.Services;
+using MauiApp2.ViewModels;
 
 
 namespace Lab5.MAUI
@@ -22,6 +23,7 @@ namespace Lab5.MAUI
                 });
             builder.Services.AddScoped<IDepartmentApiClient, DepartmentApiClient>();
             builder.Services.AddScoped<IDataRepository, ApiDataRepository>();
+            builder.Services.AddSingleton<MainPageViewModel>();
             builder.Services.AddSingleton<MainPage>();
 #if DEBUG
             builder.Logging.AddDebug();
