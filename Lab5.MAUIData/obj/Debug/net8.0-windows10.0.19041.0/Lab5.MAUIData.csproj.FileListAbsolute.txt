@@ -1,0 +1,13 @@
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\bin\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.deps.json
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\bin\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.dll
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\bin\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.pdb
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.csproj.AssemblyReference.cache
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.AssemblyInfoInputs.cache
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.AssemblyInfo.cs
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.csproj.CoreCompileInputs.cache
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.dll
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\refint\Lab5.MAUIData.dll
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.pdb
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\ref\Lab5.MAUIData.dll
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-windows10.0.19041.0\Lab5.MAUIData.sourcelink.json

@@ -1,0 +1,2 @@
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\Lab5.MAUI.csproj;x64
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\Lab5.MAUIData.csproj;neutral
