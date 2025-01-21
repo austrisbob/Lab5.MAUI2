@@ -18,3 +18,4 @@ C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-ios\refint
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-ios\Lab5.MAUIData.pdb
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-ios\ref\Lab5.MAUIData.dll
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-ios\Lab5.MAUIData.sourcelink.json
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUIData\obj\Debug\net8.0-ios\build-signature\signature

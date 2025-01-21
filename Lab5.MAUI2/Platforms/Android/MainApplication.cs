@@ -1,5 +1,6 @@
 ﻿using Android.App;
 using Android.Runtime;
+using Lab5.MAUI;
 
 namespace Lab5.MAUI2
 {

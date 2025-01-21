@@ -1,4 +1,5 @@
 ﻿using Foundation;
+using Lab5.MAUI;
 
 namespace Lab5.MAUI2
 {
