@@ -58,6 +58,9 @@
     <AppxPackagedFile Include="C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FluentUI.cs">
+      <PackagePath>FluentUI.cs</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>

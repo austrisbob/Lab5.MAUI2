@@ -184,3 +184,5 @@ C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.1
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lab5.MAUIData.dll
 C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lab5.MAUIData.pdb
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FluentUI.cs
+C:\Users\austr\source\repos\Lab5.MAUI2\Lab5.MAUI2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Lab5.MAUI2.sourcelink.json

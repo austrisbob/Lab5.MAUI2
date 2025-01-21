@@ -109,10 +109,6 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -129,6 +125,28 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Android.Ref.34",
+              "version": "[34.0.145, 34.0.145]"
+            },
+            {
+              "name": "Microsoft.Android.Runtime.34.android-arm",
+              "version": "[34.0.145, 34.0.145]"
+            },
+            {
+              "name": "Microsoft.Android.Runtime.34.android-arm64",
+              "version": "[34.0.145, 34.0.145]"
+            },
+            {
+              "name": "Microsoft.Android.Runtime.34.android-x64",
+              "version": "[34.0.145, 34.0.145]"
+            },
+            {
+              "name": "Microsoft.Android.Runtime.34.android-x86",
+              "version": "[34.0.145, 34.0.145]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.Android": {
               "privateAssets": "all"
@@ -167,10 +185,6 @@
               "target": "Package",
               "version": "[8.0.12, )",
               "autoReferenced": true
-            },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -237,10 +251,6 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -300,10 +310,6 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
-            },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -441,10 +447,6 @@
               "target": "Package",
               "version": "[8.0.100, )"
             },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -501,10 +503,6 @@
               "target": "Package",
               "version": "[8.0.12, )",
               "autoReferenced": true
-            },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -563,10 +561,6 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -618,10 +612,6 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
-            },
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

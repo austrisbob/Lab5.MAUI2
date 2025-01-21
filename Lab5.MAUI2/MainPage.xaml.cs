@@ -3,7 +3,7 @@ using Lab5.MAUIData.Services;
 using MauiApp2.ViewModels;
 using Newtonsoft.Json;
 
-namespace Lab5.MAUI
+namespace Lab5.MAUI2
 {
     public partial class MainPage : ContentPage
     {
